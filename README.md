@@ -13,13 +13,11 @@ npm install --save sample-react-ui-library
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react';
 
 import { Button } from 'sample-react-ui-library';
 
-class Example extends Component {
-  render() {
-    return <Button />
-  }
-}
+const Example = () => (
+   <Button />
+);
 ```
