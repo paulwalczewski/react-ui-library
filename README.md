@@ -1,4 +1,4 @@
-# banking-ui-test3
+# sample-react-ui-library
 
 > Based on:
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save banking-ui-test3
+npm install --save sample-react-ui-library
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save banking-ui-test3
 ```jsx
 import React, { Component } from 'react'
 
-import { Button } from 'banking-ui-test3';
+import { Button } from 'sample-react-ui-library';
 
 class Example extends Component {
   render() {
