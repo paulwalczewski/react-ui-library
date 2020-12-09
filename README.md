@@ -13,7 +13,7 @@ npm install --save sample-react-ui-library
 ## Usage
 
 ```jsx
-import React from 'react'
+import React from 'react';
 
 import { Button } from 'sample-react-ui-library';
 
