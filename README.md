@@ -1,8 +1,6 @@
 # sample-react-ui-library
 
-> Based on:
-
-[![NPM](https://img.shields.io/npm/v/banking-ui-test3.svg)](https://www.npmjs.com/package/banking-ui-test3) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/sample-react-ui-library.svg)](https://www.npmjs.com/package/sample-react-ui-library) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
